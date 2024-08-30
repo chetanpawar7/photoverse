@@ -11,7 +11,9 @@ IMAGE_REMOVED_SUCCESSFULLY = 'Image removed successfully'
 
 IMAGE_UPDATED_SUCCESSFULLY = 'Image updated successfully'
 
+USER_LOGIN_SUCCESSFULLY = 'User logged in successfully'
 
+USER_LOGOUT_SUCCESSFULLY = 'User logged out successfully'
 
 # error conf
 USER_NOT_AUTHORIZED = {
